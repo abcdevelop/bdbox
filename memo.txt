@@ -1,0 +1,17 @@
+create-nuxt-app bdbox
+
+ To get started:
+    cd bdbox
+    npm run dev
+                 npm install
+  To build & star
+
+    cd bdbox
+    npm run build
+    npm start
+
+
+npm install --save @nuxtjs/font-awesome
+npm install --save vue-jstree
+npm install --save firebase vuexfire
+npm install --save lodash
